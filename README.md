@@ -1,4 +1,4 @@
-# flutter_loading_button
+# Flutter Loading Button
 
 A new Flutter project.
 
