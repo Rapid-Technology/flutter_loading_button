@@ -2,8 +2,6 @@
 
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/1ffjTdfibBs/maxresdefault.jpg)](https://www.youtube.com/watch?v=1ffjTdfibBs)
 
-A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
